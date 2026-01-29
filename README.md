@@ -1,20 +1,9 @@
-# Keystatic in Next.js
+# codelab.sh | Codelabs Creator Platform
 
-This template shows how you can use Keystatic in a Next.js site that utilises
-the `app` directory.
+Inspired by roadmap.sh
 
-To setup:
-
-```bash
-npm install
-```
-
-To run:
-
-```
-npm run dev
-```
-
-Admin UI: [http://127.0.0.1:3000/keystatic](http://127.0.0.1:3000/keystatic)
-
-Homepage: [http://localhost:3000](http://localhost:3000)
+## Important links to resources
+- [Google Codelabs Format Guide](https://github.com/googlecodelabs/tools/blob/main/FORMAT-GUIDE.md)
+- [Claat tool docs](https://github.com/googlecodelabs/tools/tree/main/claat)
+- [Creating Codelab site with markdown codelabs](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd)
+- [Sample Codelab Google Doc](https://docs.google.com/document/d/16P5uaE748TOFoUw7Nh9yl3ZGCre7C_KlBQX5OcpvCuo/edit?tab=t.0)
